@@ -42,12 +42,10 @@ Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly 
 If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🌟 #opensource
 
 🚀 **My current Projects**
-- **[Project1]:** Brief description of your project.
-- **[Project2]:** Brief description of your project.
-- **[Project3]:** Brief description of your project.
+- **[Tracklet]:** A notetaking app that is simple and has a chart view
 
 > ⓘ **Note** 
-I'd be happy if we could connect. Connect with [Community Platform] or email me at [Your Email] if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
+I'd be happy if we could connect. Connect with [Community Platform] or email me at [hadhans](mailto:[hadhanns@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
 
 💪 **Are You Interested for more?**
 Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](mailto:[hadhanns@gmail.com]) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
