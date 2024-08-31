@@ -25,7 +25,7 @@ struct [Your Name]: Developer {
     let role = "Mobile & Web Developer, Student"
     let languages: [Languages] = [.Indonesia, .English, .Japan]
 
-    let programmingLanguages = ["Swift", "Java", "Go", "Dart"]
+    let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
     let markup = ["HTML", "XML"]
     let scripting = ["Bash", "Shell"]
 
@@ -38,7 +38,7 @@ let me = nonJohan()
 me.sayHi()
 ```
 
-Hey there, it's a pleasure to meet you! I'm [Your Name] from [Your Country], and I'm truly passionate about [Your Passion]. Learning new languages and frameworks always excites me, and I'm really dedicated to [Your Field of Interest].
+Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly passionate about graphic design and development in my free time. Learning new languages and frameworks always excites me, and I'm really dedicated to Mobile Development and Design in general.
 
 If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🌟 #opensource
 
