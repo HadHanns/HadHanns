@@ -47,7 +47,7 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 - **[Project3]:** Brief description of your project.
 
 > ⓘ **Note** 
-I am seeking contributors for my open-source libraries at [Your Repository Link]. Join our [Community Platform] or email me at [Your Email] if interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
+I'd be happy if we could connect. Connect with [Community Platform] or email me at [Your Email] if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
 
 💪 **Are You Interested for more?**
 Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](mailto:[hadhanns@gmail.com]) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
