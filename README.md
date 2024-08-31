@@ -46,8 +46,10 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 - **[Project2]:** Brief description of your project.
 - **[Project3]:** Brief description of your project.
 
-ℹ️ **Note**
-I am seeking contributors for my open-source libraries at [Your Repository Link]. Join our [Community Platform] or email me at [Your Email] if interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; background-color: #f9f9f9; margin: 20px 0;">
+        <h2 style="margin-top: 0; color: #333;">ℹ️ Note</h2>
+        <p>I am seeking contributors for my open-source libraries at <a href="[Your Repository Link]" style="color: #0066cc;">Your Repository Link</a>. Join our <a href="[Community Platform]" style="color: #0066cc;">Community Platform</a> or email me at <a href="mailto:[Your Email]" style="color: #0066cc;">[Your Email]</a> if interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊</p>
+    </div>
 
 💪 **Are You Interested for more?**
 Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](mailto:[hadhanns@gmail.com]) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
