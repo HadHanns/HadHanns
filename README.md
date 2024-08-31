@@ -24,7 +24,7 @@ struct [Your Name]: Developer {
     let location = Location = .IDR
 
     let role = "Mobile & Web Developer, Student"
-    let languages: [Languages] = [.Indonesia, .English, .Japan]
+    let languages: [Languages] = [.Indonesia, .English, .Japanese]
 
     let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
     let markup = ["HTML", "XML"]
