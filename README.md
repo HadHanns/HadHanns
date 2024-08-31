@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```swift
 struct [Your Name]: Developer {
     let name = "nonJohan"
-    let pronouns = "sad/boy"
+    let pronouns = "he/him"
     let location = Location = .IDR
 
     let role = "Mobile & Web Developer, Student"
@@ -55,7 +55,3 @@ Are you interested in collaborating or just having a friendly chat? Feel free to
 
 **Let's Connect** 🤝  
 [LinkedIn] [GitHub] [Twitter]
-
----
-
-You can replace the placeholders like `[Your Name]`, `[Your Full Name]`, `[Your Role/Title]`, etc., with your actual information to create a personalized README profile similar to the example you provided.
