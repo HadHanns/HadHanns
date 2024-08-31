@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to my Profile
 
 ```swift
-struct [Your Name]: Developer {
+struct nonJohan: Developer {
    let name = "nonJohan"
    let pronouns = "he/him"
    let location = Location = .IDR
