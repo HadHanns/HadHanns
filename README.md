@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ```markdown
 # Welcome to my Profile
+```
 
 ```swift
 struct [Your Name]: Developer {
