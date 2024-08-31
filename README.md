@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ```swift
 struct [Your Name]: Developer {
-    let name = "nonJohan"
-    let pronouns = "he/him"
-    let location = Location = .IDR
+   let name = "nonJohan"
+   let pronouns = "he/him"
+   let location = Location = .IDR
 
-    let role = "Mobile & Web Developer, Student"
-    let languages: [Languages] = [.Indonesia, .English, .Japanese]
+   let role = "Mobile & Web Developer, Student"
+   let languages: [Languages] = [.Indonesia, .English, .Japanese]
 
-    let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
-    let markup = ["HTML", "XML"]
-    let scripting = ["Bash", "Shell"]
+   let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
+   let markup = ["HTML", "XML"]
+   let scripting = ["Bash", "Shell"]
 
-    func greet() {
-        print("Hello! Appreciate your visit—browse through my work and let me know what you think! 👋")
-    }
+   func greet() {
+        print("Hey, thanks for dropping by, feel free to have a look at my work! 👋")
+   }
 }
 
 let me = nonJohan()
