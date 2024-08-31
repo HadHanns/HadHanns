@@ -46,7 +46,8 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 - **[Project2]:** Brief description of your project.
 - **[Project3]:** Brief description of your project.
 
-> ⓘ **Note**
+> ```swift ⓘ **Note** 
+```
 I am seeking contributors for my open-source libraries at [Your Repository Link]. Join our [Community Platform] or email me at [Your Email] if interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
 
 💪 **Are You Interested for more?**
