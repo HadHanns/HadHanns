@@ -22,7 +22,7 @@ struct nonJohan: Developer {
    let location = Location = .IDR
 
    let role = "Mobile & Web Developer, Student"
-   let languages: [Languages] = [.Indonesia, .English, .Japanese]
+   let languages: [Languages] = [.Indonesia, .English, .Japanese(desc: "Pasif")]
 
    let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
    let markup = ["HTML", "XML"]
