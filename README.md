@@ -43,6 +43,8 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 🚀 **My current Projects**
 - **[Tracklet]:** A notetaking app that is simple and has a chart view
+- **[3D-Portofolio]:** This portfolio features 3D works that combine detail, realism and technical expertise in models, animation and digital visualization.
+
 
 > ⓘ **Note** 
 I'd be happy if we could connect. Connect with [LinkedIn](https://www.linkedin.com/in/haddad-hannan/) or email me at [hadhanns](mailto:[hadhanns@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
