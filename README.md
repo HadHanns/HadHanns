@@ -47,11 +47,11 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 
 > ⓘ **Note** 
-I'd be happy if we could connect. Connect with [LinkedIn](https://www.linkedin.com/in/haddad-hannan/) or email me at [hadhanns](mailto:[hadhanns@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
+I'd be happy if we could connect. Connect with [LinkedIn]() or email me at [hadhanns](mailto:[hadhanns@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
 
 💪 **Are You Interested for more?** <br/>
 Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](mailto:[hadhanns@gmail.com]) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
 
-**Let's Connect** 🤝  
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/haddad-hannan/)
+<!-- **Let's Connect** 🤝   -->
+<!-- [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]() -->
 
