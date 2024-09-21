@@ -43,7 +43,7 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 🚀 **My current Projects**
 - **[Tracklet]:** A notetaking app that is simple and has a chart view
-- **[3D-Portofolio]:** This portfolio features 3D works that combine detail, realism and technical expertise in models, animation and digital visualization.
+- **[3D-Portofolio]:** This portfolio features 3D works that combine detail, technical expertise in models, animation and digital visualization.
 
 
 > ⓘ **Note** 
