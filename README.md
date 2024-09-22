@@ -24,7 +24,7 @@ struct nonJohan: Developer {
    let role = "Mobile & Web Developer, Student"
    let languages: [Languages] = [.Indonesia, .English, .Japanese(desc: "Passive")]
 
-   let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL"]
+   let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL", "React"]
    let markup = ["HTML", "XML"]
    let scripting = ["Bash", "Shell"]
 
