@@ -47,7 +47,7 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 
 > ⓘ **Note** 
-I'd be happy if we could connect. Connect with [LinkedIn]() or email me at [nonJohan](mailto:[nonjohan@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
+I'd be happy if we could connect. Connect with [LinkedIn](wait) or email me at [nonJohan](mailto:[nonjohan@gmail.com]) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
 
 💪 **Are You Interested for more?** <br/>
 Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](mailto:[nonjohan@gmail.com]) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
