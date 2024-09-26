@@ -21,7 +21,7 @@ struct nonJohan: Developer {
    let pronouns = "he/him"
    let location = Location = .IDR
 
-   let role = "Mobile & Web Developer, Student"
+   let role = "Mobile & Web Developer, Student."
    let languages: [Languages] = [.Indonesia, .English, .Japanese(desc: "Passive")]
 
    let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL", "React"]
