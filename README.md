@@ -42,7 +42,7 @@ Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly 
 If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🌟 #opensource
 
 🚀 **My current Projects**
-- **[Tracklet]:** A notetaking app that is simple and has a chart view
+- **[Tracklet]:** A notetaking app that is simple and has a chart view.
 - **[3D-Portofolio]:** This portfolio features 3D works that combine detail, technical expertise in models, animation and digital visualization.
 
 
