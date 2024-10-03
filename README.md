@@ -29,7 +29,7 @@ struct nonJohan: Developer {
    let scripting = ["Bash", "Shell"]
 
    func greet() {
-        print("Hey, thanks for dropping by, feel free to have a look at my work!👋")
+        print("Hey, thanks for dropping by, feel free to have a look at my work! 👋")
    }
 }
 
