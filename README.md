@@ -19,22 +19,26 @@ Here are some ideas to get you started:
 struct nonJohan: Developer {
    let name = "nonJohan"
    let pronouns = "he/him"
-   let location = Location = .IDR
+   let location: Location = .IDR 
 
    let role = "Mobile & Web Developer, Student"
-   let languages: [Languages] = [.Indonesia, .English, .Japanese(desc: "Passive")]
+   let languages: [Language] = [
+      Language(name: "Indonesia"), 
+      Language(name: "English"), 
+      Language(name: "Japanese", desc: "Passive")
+   ]
 
    let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL", "React"]
    let markup = ["HTML", "XML"]
    let scripting = ["Bash", "Shell"]
 
    func greet() {
-        print("Hey, thanks for dropping by, feel free to have a look at my work! 👋")
+       print("Hey, thanks for dropping by, feel free to have a look at my work! 👋")
    }
 }
 
 let me = nonJohan()
-me.sayHi()
+me.greet()
 ```
 
 Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly passionate about graphic design and development in my free time. Learning new languages and frameworks always excites me, and I'm really dedicated to Mobile Development and Design in general.
