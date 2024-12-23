@@ -43,7 +43,7 @@ me.greet()
 
 Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly passionate about graphic design and development in my free time. Learning new languages and frameworks always excites me, and I'm really dedicated to Mobile Development and Design in general.
 
-If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work.🌟 # opensource
+If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work.🌟 #opensource
 
 🚀 **My current Projects**
 - **[GercepIn]:** An online application where we can make various plans.
