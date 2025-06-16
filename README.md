@@ -53,7 +53,7 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 
 > ⓘ **Note**  
 I'd be happy if we could connect!  
-Feel free to reach out via [![LinkedIn](https://img.icons8.com/?size=20&id=67570&format=png&color=000000)](https://www.linkedin.com/in/haddad-hannan) [LinkedIn](https://www.linkedin.com/in/haddad-hannan) or email me at [haddadhannan58@gmail.com](mailto:haddadhannan58@gmail.com) if you're interested.  
+Feel free to reach out via [![LinkedIn](https://img.icons8.com/?size=30&id=67570&format=png&color=000000)](https://www.linkedin.com/in/haddad-hannan) [LinkedIn](https://www.linkedin.com/in/haddad-hannan) or email me at [haddadhannan58@gmail.com](mailto:haddadhannan58@gmail.com) if you're interested.  
 Your support and collaboration would be greatly appreciated. Let's work together to create something unique and impactful. 😊
 
 💪 **Interested in collaborating or connecting?** <br/>
