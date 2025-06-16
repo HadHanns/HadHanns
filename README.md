@@ -58,8 +58,7 @@ Feel free to reach out via [![LinkedIn](https://img.icons8.com/?size=30&id=67570
 Your support and collaboration would be greatly appreciated. Let's work together to create something unique and impactful. 😊
 
 💪 **Interested in collaborating or connecting?** <br/>
-Whether you're up for a collaboration or just a friendly chat, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/haddad-hannan) or email me at [haddadhannan58@gmail.com](mailto:haddadhannan58@gmail.com).  
-Let's work together to create something unique and meaningful. 😄
+Whether you're looking to collaborate or just have a friendly chat, feel free to reach out. Let’s work together to create something unique and meaningful. 😄
 
 <!-- **Let's Connect** 🤝   -->
 <!-- [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]() -->
