@@ -45,11 +45,12 @@ Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia, and I'm truly 
 
 If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🌟#opensource
 
-🚀 **My current Projects**
-- **[GercepIn]:** An online application where we can make various plans.
-- **[Tracklet]:** A notetaking app that is simple and has a chart view.
-- **[3D-Portofolio]:** This portfolio features 3D works that combine detail, technical expertise in models, animation and digital visualization
-- **[Keruh | Platform for Mental Health]:** An AI-powered platform focused on mental health awareness and support, providing personalized insights, resources, and a safe environment for users to explore and manage their mental well-being. Using advanced AI, Keruh offers tools like mental health tips, and interactive resources to promote understanding, self-care, and emotional resilience.
+🚀 **My Current Projects**
+- **[GercepIn]:** An online application where users can create and manage various plans with ease and efficiency.
+- **[Tracklet]:** A minimalistic notetaking app with visual chart views for tracking notes and insights.
+- **[3D-Portofolio]:** A portfolio featuring 3D works that combine detail, animation, and technical expertise in digital visualization.
+- **[Keruh | Platform for Mental Health]:** An AI-powered platform that promotes mental health awareness by offering personalized insights, resources, and interactive tools to support emotional resilience and well-being.
+- **[MindLoop – Your Personal Habit & Focus Companion]:** An iOS app that gamifies habit building and productivity using habit tracking, a Pomodoro timer, XP levels, and progress stats. Designed to help users build consistency and focus over time.
 
 > ⓘ **Note**  
 I'd be happy if we could connect!  
