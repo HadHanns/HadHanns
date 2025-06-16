@@ -51,12 +51,14 @@ If you enjoy my work, your support in starring my repositories would mean a lot 
 - **[3D-Portofolio]:** This portfolio features 3D works that combine detail, technical expertise in models, animation and digital visualization
 - **[Keruh | Platform for Mental Health]:** An AI-powered platform focused on mental health awareness and support, providing personalized insights, resources, and a safe environment for users to explore and manage their mental well-being. Using advanced AI, Keruh offers tools like mental health tips, and interactive resources to promote understanding, self-care, and emotional resilience.
 
+> ⓘ **Note**  
+I'd be happy if we could connect!  
+Feel free to reach out via [![LinkedIn](https://img.icons8.com/ios-filled/16/000000/linkedin.png)](https://www.linkedin.com/in/haddad-hannan) [LinkedIn](https://www.linkedin.com/in/haddad-hannan) or email me at [haddadhannan58@gmail.com](mailto:haddadhannan58@gmail.com) if you're interested.  
+Your support and collaboration would be greatly appreciated. Let's work together to create something unique and impactful. 😊
 
-> ⓘ **Note** 
-I'd be happy if we could connect. Connect with [LinkedIn](wait) or email me at [nonJohan](wait) if you are interested. Your help will be greatly appreciated. Let's work together to create something unique and remarkable. 😊
-
-💪 **Are You Interested for more?** <br/>
-Are you interested in collaborating or just having a friendly chat? Feel free to [contact me](wait) so we can discuss anything important. Let's work together to create something unique and remarkable. 😄
+💪 **Interested in collaborating or connecting?** <br/>
+Whether you're up for a collaboration or just a friendly chat, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/haddad-hannan) or email me at [haddadhannan58@gmail.com](mailto:haddadhannan58@gmail.com).  
+Let's work together to create something unique and meaningful. 😄
 
 <!-- **Let's Connect** 🤝   -->
 <!-- [![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]() -->
