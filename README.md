@@ -25,10 +25,11 @@ struct nonJohan: Developer {
    let languages: [Language] = [
       Language(name: "Indonesia"), 
       Language(name: "English"), 
-      Language(name: "Japanese", desc: "Passive")
+      Language(name: "Japanese", desc: "Passive"),
+      Language(name: "Mandarin", desc: "Beginner 🌱")
    ]
 
-   let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL", "React"]
+   let programmingLanguages = ["Swift", "Java", "Go", "Dart", "Python", "SQL", "React", "Lua 🌱", "Rust 🌱"]
    let markup = ["HTML", "XML"]
    let scripting = ["Bash", "Shell"]
 
