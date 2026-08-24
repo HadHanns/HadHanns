@@ -42,7 +42,7 @@ let me = nonJohan()
 me.greet()
 ```
 
-Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia — a **fresh graduate** who is currently **open to work** 🟢. I'm truly passionate about graphic design and development, and I'm actively looking for opportunities in **Mobile Development** and **Design**. Learning new languages and frameworks always excites me, and I'm ready to bring my skills to a professional team.
+Hey there, it's a pleasure to meet you! I'm Hanns from Indonesia — a **fresh graduate** who is currently **open to work** 🟢. I'm truly passionate about development and I'm actively looking for opportunities in **Mobile Development**. Learning new languages and frameworks always excites me, and I'm ready to bring my skills to a professional team.
 
 If you enjoy my work, your support in starring my repositories would mean a lot to me. Your stars help me gain visibility and encourage others in the community to discover and benefit from this work. 🌟 #opensource
 
