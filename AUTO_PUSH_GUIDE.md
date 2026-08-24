@@ -2,33 +2,37 @@
 
 Script ini otomatis push commit ke GitHub setiap hari jam **09:00** agar contribution graph tetap hijau 🟩
 
+Menggunakan **LaunchAgent** (lebih reliable dari cron — tetap jalan meski Mac baru dibuka setelah jam 9).
+
 ---
 
-## ✅ Cek Status Cron (Aktif / Tidak)
+## ✅ Cek Status LaunchAgent (Aktif / Tidak)
 
 ```bash
-crontab -l
+launchctl list | grep hadhanns
 ```
 
 **Output kalau aktif:**
 ```
-0 9 * * * "/Users/haddadhannansrg/Documents/GitHub/GitHub Profile/HadHanns/auto_push.sh" >> /Users/haddadhannansrg/auto_push.log 2>&1
+-   0   com.hadhanns.autopush
 ```
 
-> Kalau output kosong → cron belum terdaftar atau sudah dimatikan.
+> Kolom pertama `-` = tidak sedang running (normal, hanya jalan saat jadwal). Angka `0` = terakhir sukses.
 
 ---
 
 ## 📄 Lihat Log Aktivitas
 
-File log dibuat otomatis saat cron pertama kali jalan:
-
 ```bash
 cat ~/auto_push.log
 ```
 
-Monitor log secara live:
+Kalau ada error:
+```bash
+cat ~/auto_push_error.log
+```
 
+Monitor log secara live:
 ```bash
 tail -f ~/auto_push.log
 ```
@@ -48,14 +52,13 @@ tail -f ~/auto_push.log
 ## 🔴 Matikan Auto-Push
 
 ```bash
-crontab -l | grep -v "auto_push.sh" | crontab -
+launchctl unload ~/Library/LaunchAgents/com.hadhanns.autopush.plist
 ```
 
 Verifikasi sudah mati:
-
 ```bash
-crontab -l
-# Harusnya kosong atau baris auto_push.sh tidak ada
+launchctl list | grep hadhanns
+# Harusnya tidak ada output
 ```
 
 ---
@@ -63,22 +66,26 @@ crontab -l
 ## 🟢 Aktifkan Kembali
 
 ```bash
-(crontab -l 2>/dev/null; echo '0 9 * * * "/Users/haddadhannansrg/Documents/GitHub/GitHub Profile/HadHanns/auto_push.sh" >> /Users/haddadhannansrg/auto_push.log 2>&1') | crontab -
+launchctl load ~/Library/LaunchAgents/com.hadhanns.autopush.plist
 ```
 
 ---
 
 ## 📁 File yang Terlibat
 
-| File | Fungsi |
-|------|--------|
-| `auto_push.sh` | Script utama yang commit & push ke GitHub |
-| `daily_log.md` | File yang diupdate setiap hari sebagai isi commit |
-| `~/auto_push.log` | Log output dari cron (dibuat otomatis) |
+| File | Lokasi | Fungsi |
+|------|--------|--------|
+| `auto_push.sh` | Repo GitHub Profile | Script utama yang commit & push ke GitHub |
+| `daily_log.md` | Repo GitHub Profile | File yang diupdate setiap hari sebagai isi commit |
+| `com.hadhanns.autopush.plist` | `~/Library/LaunchAgents/` | Konfigurasi jadwal LaunchAgent |
+| `auto_push.log` | `~/auto_push.log` | Log output sukses |
+| `auto_push_error.log` | `~/auto_push_error.log` | Log jika ada error |
 
 ---
 
-> ⚠️ **Catatan**
+> ℹ️ **Kenapa LaunchAgent lebih baik dari Cron?**
 >
-> Cron hanya jalan kalau **Mac dalam kondisi menyala** jam 09:00.
-> Jika Mac sering sleep, pertimbangkan menggunakan **LaunchAgent** sebagai alternatif yang lebih reliable.
+> Kalau Mac kamu **ditutup/sleep** sebelum jam 09:00 dan baru dibuka setelahnya,
+> LaunchAgent akan **langsung menjalankan** script begitu Mac aktif kembali.
+> Cron akan melewatinya begitu saja.
+
